@@ -1,0 +1,58 @@
+								Processus IDentifier
+$	psaux
+ 	ps -e   
+			  
+	ps  -axjf
+$
+	pidof 
+
+ps -el | grep 'Z'o ps -A -ostat, ppid, pid, cmd | grep -e '^ [Zz]'
+ps -A -ostat, ppid, pid, cmd | grep -e '^ [Zz]'
+$ 
+	echo "PID = $$; PPID = $PPID"
+
+	ps aux | grep <pid_du_fils> | grep Z+
+
+	ps aux | egrep "Z|defunct"
+
+$
+
+	ps aux | awk '$8 ~ /^[Zz]/'
+
+
+$
+	 ps -o ppid= <PID>
+
+$
+	ps -A -ostat,pid,ppid | grep -e '[zZ]'
+
+$
+		top 
+
+press k for kill
+
+kill -9 <Parent PID>
+Tapez ps pour obtenir la liste des PID du ou des processus.
+
+Tapez kill, suivi du ou des PID. 
+
+check zonzon :
+
+$	ps aux | grep <pid_du_fils> | grep Z+
+
+$	top -> to show pid 				O - Le processus est en cours sur un processeur.
+
+			   S = (sleeping) – en sommeil  S - Sommeil : le processus est en attente de fin d'exécution d'un événement.
+
+	       = (running) – en cours de fonctionnement R - Exécutable : le processus est dans la file d'attente d'exécution.
+
+							I - Inactif : le processus est en cours de création.
+
+							Z - Zombie : le processus est terminé et le père n'est pas en attente.
+		
+	t = arrêté par le débogueur pendant la trace	T - Analyse : le processus a été arrêté par un signal car il est en cours d'analyse par le père.
+	
+							X - SXBRK : le processus attend davantage de mémoire principale.
+
+							D = sommeil ininterrompu
+
