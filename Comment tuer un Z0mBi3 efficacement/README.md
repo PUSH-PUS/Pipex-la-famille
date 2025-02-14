@@ -1,7 +1,7 @@
 A l'aide les zombies nous attaques !
 
 <p align="center">
-    <img src="Doc_Info/img/zombie.jpg" alt="Diagramme" width="400">
+    <img src="Doc_Info/img/zombie.jpg" alt="Diagramme" width="200">
 </p>
 
  Règle #2 : Double Tap (Double Coup)
