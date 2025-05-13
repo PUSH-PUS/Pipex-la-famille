@@ -1,7 +1,7 @@
 # Voici le pipex sur lequel j'ai cassé ma pipe 🚀
 
 <p align="center">
-    <img src="Doc_Info/img/alien.png" alt="Process" width="400">
+    <img src="https://media1.tenor.com/m/RG4Di7_cWjkAAAAd/super-mario-bros-wonder-mario.gif"/>
 </p>
 
 ---
@@ -24,6 +24,6 @@ Les testeurs proviennent d'autres GitHub et leurs références sont dans leurs R
 __________________________________________________________________________________
 
 <p align="center">
-    <img src="Doc_Info/img/diag.png" alt="Diagramme" width="400">
+    <img src="Doc_Info/img/alien.png" alt="Process" width="400">
 </p>
 
