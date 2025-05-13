@@ -21,6 +21,7 @@ Un petit cours optimisé par les IA est disponible pour mieux cerner le sujet et
 Comment tuer un zombie efficacement est une question que l'on s'est tous déjà posée ?
 
 Les testeurs proviennent d'autres GitHub et leurs références sont dans leurs README.
+__________________________________________________________________________________
 
 <p align="center">
     <img src="Doc_Info/img/diag.png" alt="Diagramme" width="400">
